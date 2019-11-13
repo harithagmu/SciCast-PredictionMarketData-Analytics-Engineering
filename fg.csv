@@ -1,0 +1,11 @@
+,user_id,question_id,new_value,created_at,actual_Value,category1,category2,error
+0,54,78,0.82,2013-12-04 11:35:53.529257,"0    1.0
+Name: settled_value, dtype: float64","19    Space Sciences
+Name: name, dtype: object","19    Space Sciences
+Name: name, dtype: object","0    0.18
+Name: settled_value, dtype: float64"
+1,54,77,0.91,2013-12-04 11:36:40.880493,"0    1.0
+Name: settled_value, dtype: float64","19    Space Sciences
+Name: name, dtype: object","19    Space Sciences
+Name: name, dtype: object","0    0.09
+Name: settled_value, dtype: float64"

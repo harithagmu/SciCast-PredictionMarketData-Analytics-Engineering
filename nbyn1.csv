@@ -1,0 +1,544 @@
+,question_id,answeredby,category1,category2
+0,728,2696,Business of Science,Social Sciences
+1,747,2082,Biology & Medicine,
+2,748,1031,Information Systems,
+3,803,1008,Energy,Engineered Technologies
+4,127,625,Space Sciences,
+5,103,590,Social Sciences,
+6,375,515,Global Change,
+7,374,488,Global Change,
+8,672,469,Business of Science,Engineered Technologies
+9,447,434,Global Change,
+10,401,413,Information Systems,Engineered Technologies
+11,454,404,Global Change,
+12,386,372,Global Change,
+13,102,365,Social Sciences,
+14,452,363,Global Change,Energy
+15,853,363,Computational Sciences,
+16,420,339,Energy,
+17,670,332,Engineered Technologies,Space Sciences
+18,418,326,Business of Science,
+19,128,323,Physics,
+20,354,320,Engineered Technologies,Energy
+21,341,313,Business of Science,
+22,462,306,Mathematics,
+23,188,297,Biology & Medicine,Social Sciences
+24,687,272,Business of Science,Biology & Medicine
+25,410,268,Global Change,
+26,674,259,Business of Science,
+27,173,255,Energy,
+28,702,252,Information Systems,Business of Science
+29,338,250,Business of Science,
+30,408,246,Global Change,
+31,403,242,Mathematics,Energy
+32,1083,240,Computational Sciences,Mathematics
+33,224,236,Business of Science,Information Systems
+34,588,221,Energy,
+35,189,221,Biology & Medicine,Social Sciences
+36,358,219,Energy,
+37,842,218,Information Systems,Engineered Technologies
+38,157,215,Business of Science,Social Sciences
+39,153,213,Space Sciences,
+40,659,212,Business of Science,Biology & Medicine
+41,84,211,Biology & Medicine,
+42,718,204,Engineered Technologies,Energy
+43,584,204,Business of Science,Information Systems
+44,372,203,Global Change,
+45,649,201,Business of Science,Information Systems
+46,1037,200,Biology & Medicine,
+47,552,200,Information Systems,
+48,360,198,Energy,
+49,359,193,Energy,
+50,425,192,Business of Science,Information Systems
+51,373,192,Global Change,
+52,818,191,Global Change,Chemistry
+53,624,190,Business of Science,
+54,656,188,Biology & Medicine,Engineered Technologies
+55,460,187,Mathematics,
+56,464,183,Engineered Technologies,
+57,343,180,Energy,
+58,529,174,Business of Science,IEEE Spectrum
+59,12,173,Business of Science,Information Systems
+60,229,172,Biology & Medicine,
+61,160,171,Engineered Technologies,
+62,580,170,Business of Science,Engineered Technologies
+63,741,170,Transportation,Engineered Technologies
+64,76,169,Biology & Medicine,
+65,719,168,Engineered Technologies,Energy
+66,145,168,Physics,
+67,326,165,Space Sciences,
+68,459,163,Business of Science,
+69,389,162,Biology & Medicine,
+70,129,161,Energy,
+71,154,161,Engineered Technologies,
+72,404,160,Energy,
+73,204,160,Agriculture,Biology & Medicine
+74,536,160,Information Systems,
+75,469,156,Business of Science,Computational Sciences
+76,583,156,Information Systems,
+77,434,153,Physics,
+78,16,153,Information Systems,Engineered Technologies
+79,183,151,Physics,
+80,1040,151,Business of Science,Information Systems
+81,143,150,Space Sciences,
+82,489,149,Biology & Medicine,
+83,213,149,Energy,
+84,715,145,Energy,Engineered Technologies
+85,897,143,Computational Sciences,
+86,704,143,Information Systems,
+87,819,143,Global Change,
+88,398,142,Information Systems,Engineered Technologies
+89,880,141,Space Sciences,
+90,739,140,,
+91,1039,138,Biology & Medicine,
+92,328,137,Energy,
+93,585,136,Business of Science,Information Systems
+94,352,134,Biology & Medicine,
+95,700,134,Business of Science,Engineered Technologies
+96,660,134,Business of Science,Biology & Medicine
+97,1030,133,Business of Science,Engineered Technologies
+98,79,132,Business of Science,
+99,185,131,Engineered Technologies,
+100,396,128,Business of Science,Information Systems
+101,693,128,Biology & Medicine,
+102,376,128,Global Change,
+103,199,128,Mathematics,
+104,686,128,Business of Science,Biology & Medicine
+105,419,127,Information Systems,
+106,226,125,Biology & Medicine,
+107,738,125,Biology & Medicine,
+108,1043,124,Biology & Medicine,
+109,838,123,Biology & Medicine,
+110,625,123,Business of Science,
+111,385,122,Global Change,
+112,1052,122,Business of Science,Engineered Technologies
+113,15,122,Business of Science,Information Systems
+114,445,121,Energy,
+115,155,120,Business of Science,Social Sciences
+116,633,120,Physics,Engineered Technologies
+117,194,120,Engineered Technologies,
+118,190,119,Engineered Technologies,
+119,444,118,Business of Science,Engineered Technologies
+120,1036,118,Biology & Medicine,
+121,710,117,Energy,
+122,733,117,Biology & Medicine,
+123,451,117,Engineered Technologies,
+124,698,117,Business of Science,Engineered Technologies
+125,705,115,Information Systems,
+126,1041,114,Biology & Medicine,
+127,448,113,Transportation,Business of Science
+128,206,112,Chemistry,Energy
+129,202,110,Biology & Medicine,
+130,1038,110,Business of Science,Information Systems
+131,635,110,Physics,Space Sciences
+132,207,110,Biology & Medicine,
+133,220,108,Biology & Medicine,Engineered Technologies
+134,130,107,Engineered Technologies,
+135,1118,106,Information Systems,
+136,766,106,Space Sciences,
+137,677,106,Biology & Medicine,
+138,801,106,Energy,Engineered Technologies
+139,525,105,Biology & Medicine,
+140,495,105,Biology & Medicine,
+141,355,105,Energy,
+142,193,104,Engineered Technologies,
+143,507,104,Space Sciences,
+144,1031,104,Biology & Medicine,
+145,628,104,Business of Science,
+146,1044,103,Biology & Medicine,
+147,192,102,Engineered Technologies,
+148,1034,101,Physics,
+149,477,101,Biology & Medicine,
+150,563,101,Computational Sciences,
+151,417,101,Information Systems,
+152,692,101,Biology & Medicine,
+153,468,101,Business of Science,Computational Sciences
+154,764,99,Space Sciences,
+155,492,99,Biology & Medicine,
+156,498,99,Biology & Medicine,
+157,473,98,Biology & Medicine,
+158,839,98,Biology & Medicine,
+159,791,98,Biology & Medicine,
+160,457,98,Biology & Medicine,
+161,517,97,Biology & Medicine,
+162,765,96,Space Sciences,
+163,679,96,Biology & Medicine,
+164,494,96,Biology & Medicine,
+165,685,95,Agriculture,
+166,172,95,Engineered Technologies,
+167,191,95,Engineered Technologies,
+168,521,95,Biology & Medicine,
+169,195,95,Engineered Technologies,
+170,428,95,Engineered Technologies,
+171,5,94,Chemistry,
+172,472,94,Biology & Medicine,
+173,144,93,Energy,
+174,480,92,Biology & Medicine,
+175,699,92,Business of Science,Engineered Technologies
+176,501,91,Biology & Medicine,
+177,476,91,Biology & Medicine,
+178,347,91,Chemistry,Energy
+179,486,91,Biology & Medicine,
+180,497,90,Biology & Medicine,
+181,1339,90,Global Change,Chemistry
+182,488,89,Biology & Medicine,
+183,516,89,Biology & Medicine,
+184,513,89,Biology & Medicine,
+185,514,89,Biology & Medicine,
+186,471,88,Biology & Medicine,
+187,523,88,Biology & Medicine,
+188,346,88,Chemistry,Energy
+189,465,88,Business of Science,Engineered Technologies
+190,527,88,Biology & Medicine,
+191,1022,88,Biology & Medicine,
+192,491,88,Biology & Medicine,
+193,502,88,Biology & Medicine,
+194,479,88,Biology & Medicine,
+195,357,88,Energy,
+196,511,87,Engineered Technologies,Space Sciences
+197,438,87,Chemistry,Energy
+198,179,87,Physics,
+199,737,87,Space Sciences,
+200,493,87,Biology & Medicine,
+201,487,87,Biology & Medicine,
+202,499,87,Biology & Medicine,
+203,426,87,Energy,Engineered Technologies
+204,481,86,Biology & Medicine,
+205,490,86,Biology & Medicine,
+206,716,86,Engineered Technologies,Energy
+207,526,86,Biology & Medicine,
+208,482,86,Biology & Medicine,
+209,937,85,Information Systems,Engineered Technologies
+210,512,85,Biology & Medicine,
+211,474,85,Biology & Medicine,
+212,470,85,Biology & Medicine,
+213,504,85,Biology & Medicine,
+214,500,85,Biology & Medicine,
+215,345,85,Chemistry,Energy
+216,505,84,Biology & Medicine,
+217,528,84,Biology & Medicine,
+218,922,84,Computational Sciences,
+219,416,84,Information Systems,
+220,522,84,Biology & Medicine,
+221,131,83,Biology & Medicine,
+222,1023,83,Biology & Medicine,
+223,861,83,Business of Science,Engineered Technologies
+224,515,83,Biology & Medicine,
+225,485,82,Biology & Medicine,
+226,1032,82,Business of Science,Engineered Technologies
+227,855,82,Global Change,
+228,524,82,Biology & Medicine,
+229,867,81,Biology & Medicine,
+230,596,81,Biology & Medicine,
+231,509,81,Business of Science,
+232,232,81,Physics,Chemistry
+233,560,81,Information Systems,
+234,14,81,Information Systems,Engineered Technologies
+235,458,80,Biology & Medicine,
+236,520,80,Biology & Medicine,
+237,503,79,Biology & Medicine,
+238,255,79,Energy,Engineered Technologies
+239,669,79,Engineered Technologies,
+240,518,78,Biology & Medicine,
+241,551,78,Information Systems,
+242,478,77,Biology & Medicine,
+243,1026,77,Biology & Medicine,
+244,815,77,Biology & Medicine,
+245,690,77,Biology & Medicine,
+246,519,76,Biology & Medicine,
+247,422,76,Energy,
+248,405,76,Energy,
+249,475,75,Biology & Medicine,
+250,590,75,Biology & Medicine,
+251,1109,75,Biology & Medicine,
+252,13,75,Engineered Technologies,Energy
+253,899,75,Computational Sciences,
+254,361,74,Energy,
+255,256,72,Biology & Medicine,
+256,875,72,Biology & Medicine,
+257,1092,71,Biology & Medicine,
+258,203,71,Biology & Medicine,
+259,196,70,Engineered Technologies,
+260,1327,69,Business of Science,
+261,205,69,Biology & Medicine,
+262,9,68,Engineered Technologies,Energy
+263,598,68,Biology & Medicine,
+264,856,68,Information Systems,
+265,707,68,Biology & Medicine,
+266,786,65,Business of Science,Engineered Technologies
+267,61,65,Global Change,
+268,407,65,Biology & Medicine,Engineered Technologies
+269,761,65,Business of Science,Chemistry
+270,423,64,Energy,
+271,691,63,Biology & Medicine,
+272,331,62,Energy,
+273,1091,62,Biology & Medicine,
+274,630,62,Business of Science,
+275,593,58,Biology & Medicine,
+276,1119,58,Physics,Computational Sciences
+277,1354,58,Physics,Information Systems
+278,559,56,Information Systems,
+279,126,55,Physics,
+280,437,55,Physics,Information Systems
+281,231,54,Chemistry,Energy
+282,778,54,Transportation,Business of Science
+283,658,53,Agriculture,
+284,1101,53,Agriculture,Biology & Medicine
+285,876,52,Biology & Medicine,
+286,1087,51,Space Sciences,
+287,1025,50,Business of Science,
+288,789,50,Engineered Technologies,
+289,1126,50,Global Change,Biology & Medicine
+290,429,48,Space Sciences,
+291,169,48,Space Sciences,
+292,854,47,Space Sciences,
+293,1061,47,Information Systems,Engineered Technologies
+294,648,46,Information Systems,Engineered Technologies
+295,1349,45,Global Change,Chemistry
+296,923,45,Computational Sciences,
+297,971,44,Biology & Medicine,
+298,324,43,Business of Science,
+299,1346,43,Global Change,
+300,671,42,Business of Science,
+301,961,41,Biology & Medicine,
+302,1051,41,Biology & Medicine,
+303,814,40,Biology & Medicine,
+304,615,40,Biology & Medicine,
+305,975,40,Biology & Medicine,
+306,750,39,Global Change,Biology & Medicine
+307,1352,39,Engineered Technologies,Energy
+308,1113,38,Biology & Medicine,Computational Sciences
+309,934,37,Energy,
+310,1333,37,Global Change,Chemistry
+311,1136,37,Transportation,
+312,168,37,Space Sciences,
+313,991,36,Biology & Medicine,
+314,1357,36,Physics,Information Systems
+315,643,36,Space Sciences,
+316,667,36,Biology & Medicine,
+317,951,36,Biology & Medicine,
+318,763,35,Business of Science,Chemistry
+319,1345,35,Global Change,
+320,1117,35,Information Systems,
+321,966,32,Biology & Medicine,
+322,1086,32,Business of Science,
+323,1167,32,Business of Science,Engineered Technologies
+324,52,32,Global Change,
+325,1124,31,Business of Science,Computational Sciences
+326,1096,31,Energy,Engineered Technologies
+327,1047,30,Biology & Medicine,
+328,956,30,Biology & Medicine,
+329,1159,30,Global Change,Energy
+330,1337,29,Global Change,Chemistry
+331,323,29,Agriculture,
+332,944,29,Biology & Medicine,
+333,1029,29,Business of Science,Engineered Technologies
+334,1341,29,Transportation,Global Change
+335,1094,29,Business of Science,Engineered Technologies
+336,1085,28,Business of Science,Computational Sciences
+337,928,27,Biology & Medicine,
+338,1332,27,Global Change,Chemistry
+339,1355,27,Physics,Information Systems
+340,1042,26,Business of Science,Information Systems
+341,898,26,Computational Sciences,
+342,1347,26,Global Change,
+343,986,25,Biology & Medicine,
+344,395,25,Biology & Medicine,
+345,894,25,Information Systems,
+346,1058,24,Biology & Medicine,
+347,1063,24,Transportation,Engineered Technologies
+348,78,24,Engineered Technologies,Space Sciences
+349,1171,22,Space Sciences,
+350,1073,22,Space Sciences,
+351,1351,22,Engineered Technologies,Energy
+352,1056,21,Computational Sciences,Engineered Technologies
+353,1111,20,Biology & Medicine,Engineered Technologies
+354,1129,20,Transportation,Engineered Technologies
+355,878,20,Biology & Medicine,
+356,77,20,Transportation,Space Sciences
+357,303,20,Global Change,
+358,1139,19,Business of Science,Energy
+359,610,19,Physics,
+360,391,19,Biology & Medicine,
+361,1075,18,Computational Sciences,Mathematics
+362,1064,18,Chemistry,Biology & Medicine
+363,1068,17,Chemistry,Space Sciences
+364,877,17,Biology & Medicine,
+365,1055,17,Physics,
+366,1115,17,Engineered Technologies,Energy
+367,1093,16,Business of Science,Engineered Technologies
+368,1116,16,Engineered Technologies,Energy
+369,306,15,Global Change,
+370,1161,15,Global Change,
+371,1164,15,Energy,Engineered Technologies
+372,981,15,Biology & Medicine,
+373,305,15,Global Change,
+374,394,15,Global Change,Biology & Medicine
+375,1163,15,Transportation,Engineered Technologies
+376,20,14,Global Change,
+377,1151,13,Global Change,
+378,1356,13,Physics,Information Systems
+379,294,13,,
+380,298,13,,
+381,1334,12,Transportation,Engineered Technologies
+382,19,12,Global Change,
+383,1156,12,Transportation,
+384,1065,12,Space Sciences,
+385,1344,12,Global Change,Engineered Technologies
+386,225,11,Business of Science,
+387,304,11,Global Change,
+388,290,11,,
+389,301,11,,
+390,1131,11,Biology & Medicine,
+391,186,11,,
+392,292,11,,
+393,17,10,Business of Science,Information Systems
+394,790,10,Engineered Technologies,
+395,783,10,Engineered Technologies,
+396,269,10,,
+397,1128,10,Biology & Medicine,
+398,939,10,Biology & Medicine,
+399,1110,10,Biology & Medicine,Engineered Technologies
+400,1130,10,Biology & Medicine,
+401,51,10,Global Change,
+402,1097,10,Information Systems,
+403,782,9,Engineered Technologies,
+404,1095,9,Biology & Medicine,
+405,246,9,,
+406,1054,9,Information Systems,
+407,239,9,,
+408,22,9,Global Change,
+409,578,9,Biology & Medicine,
+410,299,9,,
+411,1104,8,Biology & Medicine,
+412,300,8,,
+413,1266,8,Biology & Medicine,
+414,1340,8,Transportation,Engineered Technologies
+415,1133,8,Global Change,
+416,1137,8,Business of Science,Information Systems
+417,289,7,,
+418,1106,7,Biology & Medicine,
+419,1162,7,Global Change,Energy
+420,1140,7,Business of Science,Information Systems
+421,1157,7,Biology & Medicine,
+422,277,7,,
+423,275,7,,
+424,279,7,,
+425,785,7,Business of Science,
+426,642,7,Space Sciences,
+427,571,6,Biology & Medicine,
+428,296,6,,
+429,1132,6,Biology & Medicine,Engineered Technologies
+430,591,6,Biology & Medicine,
+431,1090,6,Business of Science,Engineered Technologies
+432,263,6,,
+433,221,6,,
+434,248,6,,
+435,214,6,,
+436,1100,6,Business of Science,Information Systems
+437,268,6,,
+438,215,6,,
+439,941,6,Biology & Medicine,
+440,390,6,Biology & Medicine,
+441,238,6,,
+442,1143,6,Global Change,
+443,1102,6,Biology & Medicine,
+444,240,5,,
+445,1099,5,Business of Science,Engineered Technologies
+446,574,5,Biology & Medicine,
+447,237,5,,
+448,262,5,,
+449,606,5,Biology & Medicine,
+450,611,5,Biology & Medicine,
+451,569,5,Biology & Medicine,
+452,252,5,,
+453,295,5,,
+454,249,5,,
+455,601,5,Biology & Medicine,
+456,187,5,,
+457,572,5,Biology & Medicine,
+458,1103,5,Physics,Information Systems
+459,278,5,,
+460,1127,5,Global Change,
+461,281,5,,
+462,575,5,Biology & Medicine,
+463,570,5,Biology & Medicine,
+464,1160,5,Global Change,Energy
+465,602,5,Biology & Medicine,
+466,10,4,Energy,
+467,605,4,Biology & Medicine,
+468,288,4,,
+469,573,4,Biology & Medicine,
+470,1141,4,Global Change,
+471,1088,4,Space Sciences,
+472,1155,4,Business of Science,Engineered Technologies
+473,599,4,Biology & Medicine,
+474,1,4,,
+475,595,4,Biology & Medicine,
+476,265,4,,
+477,603,4,Biology & Medicine,
+478,267,4,,
+479,594,4,Biology & Medicine,
+480,597,4,Biology & Medicine,
+481,259,4,,
+482,293,4,,
+483,241,3,,
+484,1108,3,Space Sciences,
+485,297,3,,
+486,234,3,,
+487,233,3,,
+488,266,3,,
+489,222,3,Energy,
+490,274,3,,
+491,273,3,,
+492,242,3,,
+493,592,3,Biology & Medicine,
+494,243,3,,
+495,219,3,,
+496,604,3,Biology & Medicine,
+497,600,3,Biology & Medicine,
+498,291,3,,
+499,1060,3,Business of Science,Information Systems
+500,247,3,,
+501,1142,3,Global Change,
+502,339,3,Business of Science,
+503,245,2,,
+504,271,2,,
+505,244,2,,
+506,251,2,,
+507,236,2,,
+508,1098,2,Information Systems,
+509,258,2,,
+510,1232,2,Social Sciences,
+511,990,2,Biology & Medicine,
+512,781,2,Engineered Technologies,
+513,272,2,,
+514,250,2,,
+515,280,2,,
+516,235,2,,
+517,264,2,,
+518,261,1,,
+519,985,1,Biology & Medicine,
+520,260,1,,
+521,1218,1,,
+522,1125,1,Business of Science,Computational Sciences
+523,780,1,Engineered Technologies,
+524,784,1,Engineered Technologies,
+525,970,1,Biology & Medicine,
+526,1079,1,Information Systems,
+527,976,1,Biology & Medicine,
+528,1212,1,,
+529,1105,1,Biology & Medicine,
+530,965,1,Biology & Medicine,
+531,1375,1,Business of Science,Computational Sciences
+532,960,1,Biology & Medicine,
+533,1211,1,,
+534,1297,1,Agriculture,
+535,1303,1,Computational Sciences,Mathematics
+536,218,1,,
+537,276,1,,
+538,980,1,Biology & Medicine,
+539,1217,1,,
+540,945,1,Biology & Medicine,
+541,955,1,Biology & Medicine,
+542,950,1,Biology & Medicine,

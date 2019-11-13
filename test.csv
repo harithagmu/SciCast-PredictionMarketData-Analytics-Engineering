@@ -1,0 +1,18 @@
+,user_id,question_id,new_value,created_at,actual_Value,category1,category2
+0,52,360,0.59749997,2014-05-21 11:23:15.702982,"Series([], Name: settled_value, dtype: float64)","    id    name
+17  10  Energy","    id    name
+17  10  Energy"
+1,52,354,0.16000001,2014-05-21 11:25:49.739039,"Series([], Name: settled_value, dtype: float64)","    id    name
+17  10  Energy","    id    name
+17  10  Energy"
+2,52,452,0.70101756,2014-05-21 11:30:08.376177,"Series([], Name: settled_value, dtype: float64)","    id    name
+17  10  Energy","    id    name
+17  10  Energy"
+3,52,536,0.04325457,2014-05-21 11:30:41.811292,"Series([], Name: settled_value, dtype: float64)","    id                 name
+12   5  Information Systems",
+4,52,585,0.124999985,2014-05-21 11:32:09.760690,"Series([], Name: settled_value, dtype: float64)","   id                 name
+6  13  Business of Science","   id                 name
+6  13  Business of Science"
+5,52,417,0.5733668,2014-05-21 11:34:41.103203,"Series([], Name: settled_value, dtype: float64)","    id                 name
+12   5  Information Systems","    id                 name
+12   5  Information Systems"
