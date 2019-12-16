@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pandas.io.sql as sqlio
 import numpy as np
 
-conn = pg.connect("host=localhost dbname=postgres user=postgres password = Infinity!90")
+conn = pg.connect("")
 cur = conn.cursor()
 
 #######################################################################################
