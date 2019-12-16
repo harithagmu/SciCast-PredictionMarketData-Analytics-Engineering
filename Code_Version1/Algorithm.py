@@ -3,7 +3,7 @@ import pandas as pd
 import pandas.io.sql as sqlio
 import numpy as np
 
-conn = pg.connect("host=localhost dbname=postgres user=postgres password = Infinity!90")
+conn = pg.connect("")
 cur = conn.cursor()
 
 df = pd.read_sql_query('select * from questions where settled_value is not null and type = \'binary\'', conn)
