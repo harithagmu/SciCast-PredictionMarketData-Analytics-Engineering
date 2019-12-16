@@ -1,0 +1,7 @@
+	Modelled methods to improve the overall market forecast by Weighing the predictions
+	Weights were extracted using 2 factors – how close is the trade to the claim resolution time and historical accuracy from the past trades data
+	Distribution of these weights gives the interpretations about the user’s performance and impact of time on the accuracy of the predictions
+
+lookupTableForUserAccuracyBasedWeights.csv: has the weights learned from user’s historical accuracy. The weights are calculated as a function of user’s error rate for the trades made category-wise. Each row represents an individual user.
+usersBigdata.csv: This file has User trades, error per trade. This file can be used to learn patterns from the user accuracy throughout the SciCast timeline.
+Features.csv: This file has the weights as features learned from historical accuracy and time of trade creation in addition to details of each trade such as who created the trade and their forecast, what is the associated claim id and actual value of the claim.
