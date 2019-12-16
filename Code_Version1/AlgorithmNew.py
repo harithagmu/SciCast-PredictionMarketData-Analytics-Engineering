@@ -4,7 +4,7 @@ import pandas.io.sql as sqlio
 import numpy as np
 import matplotlib.pyplot as plt
 
-conn = pg.connect("host=localhost dbname=postgres user=postgres password = Infinity!90")
+conn = pg.connect("")
 cur = conn.cursor()
 
 #Gather question for training weights for
