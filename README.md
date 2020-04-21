@@ -5,4 +5,4 @@ The prediction market associated with this project is SciCast. SciCast was a pre
 
 Objective of the project: The objective is to improvise the probability estimate of current claims by analyzing the data from market participants. The analytical approach to the model uses weighted average based on two factors: timeline for a question to be resolved and the accuracy of the user based on his/her historical trades. The results are based on absolute error as a metric to compare the results of the weighted average with the baseline models. The mean absolute error of all the models is compared at the end.
 
-![Design for the Model](D:\Fall 2019\CAP\Report&PPT\plots\model.PNG)
+![Error distribution for the models](https://github.com/harithagmu/SciCast-PredictionMarketData-Analytics-Engineering/blob/master/Visualization/Error%20distribution.PNG)
